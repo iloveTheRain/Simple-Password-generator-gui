@@ -1,6 +1,6 @@
 # 🔐 Simple Password Generator (GUI)
 
-A lightweight and beginner-friendly **password generator** built using **Python + PySide6**.  
+A lightweight and beginner friendly **password generator** built using **Python + PySide6**.  
 This tool allows you to generate secure passwords using a slider to choose the length, view the result instantly, and save the generated password to a file.
 
 ---
