@@ -27,7 +27,7 @@ This tool allows you to generate secure passwords using a slider to choose the l
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/iloveTheRain/Simple-Password-generator-gui.git
+git clone https://github.com/iloveTheRain/Simple-Password-generator-gui
 ```
 
 ```bash
